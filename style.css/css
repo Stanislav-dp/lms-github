@@ -1,0 +1,31 @@
+a:hover{
+    color: #9acd32;
+}
+p:first-letter{
+    font-size: 33px;
+    color: blueviolet;
+    background-color: pink;
+}
+p:first-line{
+    font-weight: bold;
+    background-color: #9acd32;
+    
+}
+body{
+    background: #7f8573;
+    color: rgb(41, 1, 1);
+    padding: 0 20px 20px 20px;
+}
+h1, H2, H3{
+    color: rgb(7, 83, 83);
+    border-bottom:10px solid rgb(59, 2, 2);
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-family: 'Lobster', cursive;
+}
